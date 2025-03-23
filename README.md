@@ -1,4 +1,4 @@
-# 📊 Unemployment Analysis in India using Python  
+# 📊 Unemployment Analysis in India using Python   
 
 Unemployment is a crucial economic indicator that reflects the health of a country’s labor market. This project analyzes unemployment trends in India using **Python** and data visualization techniques. By examining real-world labor data, we uncover patterns in employment rates, labor participation, and the differences between rural and urban employment.  
 
